@@ -1,0 +1,6 @@
+ação
+comedia
+dança
+biografia
+drama
+fantasia
